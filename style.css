@@ -1,0 +1,90 @@
+body, body * {
+    font-family: 'Montserrat', sans-serif;
+    color: #494949;
+}
+
+body {
+    background-color: #40a63d1a;
+}
+/* style header  */
+#flags > img{
+    padding: 8px;
+}
+.navbar-brand > h1 {
+    color: #ca1a3c;
+
+}
+em{
+    color: #ca1a3c;
+    font-style: normal;
+    font-size: 60%;
+}
+nav{
+    margin: 0px;
+    padding: 0px;
+    background: white;
+}
+h1 > *{
+    margin: 0px;
+    padding: 0px;
+}
+/* style navbar */
+#navbar{
+    background: #494949;
+    color: #a7a7a7;
+
+}
+#nav{
+    color: #a7a7a7;
+    text-transform: uppercase;
+
+}
+.navbar-toggler{
+color: #a7a7a7 !important;
+font-family: inherit !important;
+font-display: block !important;
+
+}
+/* work on centre article and section */
+section{
+    display: flex;
+  flex-wrap: wrap;
+}
+article{
+    margin: 5% 10%;
+}   
+#button1{
+    font-style: italic;
+}
+#button2{
+    margin: 0px 16px;
+}
+.date-text > *{
+    color: #5ea32a !important;
+    padding: 8px;   
+    /* font-weight: bold; */
+}
+.date-text{
+    border-bottom: 1px solid gray;
+    background: #f9f9f9;
+    margine : 0%;
+}
+.card-body{
+    padding: 0px;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+    width: 50% !important;
+
+}
+.card2{
+    padding:16px;
+    margin: 0px 16px;
+    background: white;
+    /* width: 30% !important; */
+}
+.card-title, .card-text{
+    padding: 16px;
+}
