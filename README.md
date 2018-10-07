@@ -1,3 +1,6 @@
+## Test Link
+link :  https://armanalu.github.io/Test/
+
 ## App Features
 1. The app fetches data from the API https://techkaro-test.herokuapp.com/api/v1/getdata and displays the data on the html page.
 2. The app should be able to fetch data in English, Chinese and Urdu
